@@ -1,0 +1,24 @@
+D:\Dropbox\000.Trash\06.DataBase\BookstoreDatabase\06.SearchForReviews\bin\Debug\06.SearchForReviews.exe.config
+D:\Dropbox\000.Trash\06.DataBase\BookstoreDatabase\06.SearchForReviews\obj\Debug\06.SearchForReviews.csprojResolveAssemblyReference.cache
+D:\Dropbox\000.Trash\06.DataBase\BookstoreDatabase\06.SearchForReviews\bin\Debug\06.SearchForReviews.exe
+D:\Dropbox\000.Trash\06.DataBase\BookstoreDatabase\06.SearchForReviews\bin\Debug\06.SearchForReviews.pdb
+D:\Dropbox\000.Trash\06.DataBase\BookstoreDatabase\06.SearchForReviews\bin\Debug\Bookstore.Data.dll
+D:\Dropbox\000.Trash\06.DataBase\BookstoreDatabase\06.SearchForReviews\bin\Debug\EntityFramework.dll
+D:\Dropbox\000.Trash\06.DataBase\BookstoreDatabase\06.SearchForReviews\bin\Debug\Bookstore.Data.pdb
+D:\Dropbox\000.Trash\06.DataBase\BookstoreDatabase\06.SearchForReviews\bin\Debug\EntityFramework.xml
+D:\Dropbox\000.Trash\06.DataBase\BookstoreDatabase\06.SearchForReviews\obj\Debug\06.SearchForReviews.exe
+D:\Dropbox\000.Trash\06.DataBase\BookstoreDatabase\06.SearchForReviews\obj\Debug\06.SearchForReviews.pdb
+D:\Dropbox\000.Trash\06.DataBase\BookstoreDatabase\06.SearchForReviews\bin\Debug\07.SearchLogs.exe
+D:\Dropbox\000.Trash\06.DataBase\BookstoreDatabase\06.SearchForReviews\bin\Debug\07.SearchLogs.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation4\BookstoreDatabase\06.SearchForReviews\bin\Debug\06.SearchForReviews.exe.config
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation4\BookstoreDatabase\06.SearchForReviews\obj\Debug\06.SearchForReviews.exe
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation4\BookstoreDatabase\06.SearchForReviews\obj\Debug\06.SearchForReviews.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation4\BookstoreDatabase\06.SearchForReviews\bin\Debug\06.SearchForReviews.exe
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation4\BookstoreDatabase\06.SearchForReviews\bin\Debug\06.SearchForReviews.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation4\BookstoreDatabase\06.SearchForReviews\bin\Debug\07.SearchLogs.exe
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation4\BookstoreDatabase\06.SearchForReviews\bin\Debug\Bookstore.Data.dll
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation4\BookstoreDatabase\06.SearchForReviews\bin\Debug\EntityFramework.dll
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation4\BookstoreDatabase\06.SearchForReviews\bin\Debug\07.SearchLogs.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation4\BookstoreDatabase\06.SearchForReviews\bin\Debug\Bookstore.Data.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation4\BookstoreDatabase\06.SearchForReviews\bin\Debug\EntityFramework.xml
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation4\BookstoreDatabase\06.SearchForReviews\obj\Debug\06.SearchForReviews.csprojResolveAssemblyReference.cache

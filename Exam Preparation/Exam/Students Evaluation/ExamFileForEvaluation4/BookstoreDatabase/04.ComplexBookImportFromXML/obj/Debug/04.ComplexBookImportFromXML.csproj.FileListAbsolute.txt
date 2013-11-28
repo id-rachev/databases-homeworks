@@ -1,0 +1,20 @@
+D:\Dropbox\000.Trash\06.DataBase\BookstoreDatabase\04.ComplexBookImportFromXML\bin\Debug\04.ComplexBookImportFromXML.exe.config
+D:\Dropbox\000.Trash\06.DataBase\BookstoreDatabase\04.ComplexBookImportFromXML\obj\Debug\04.ComplexBookImportFromXML.csprojResolveAssemblyReference.cache
+D:\Dropbox\000.Trash\06.DataBase\BookstoreDatabase\04.ComplexBookImportFromXML\bin\Debug\04.ComplexBookImportFromXML.exe
+D:\Dropbox\000.Trash\06.DataBase\BookstoreDatabase\04.ComplexBookImportFromXML\bin\Debug\04.ComplexBookImportFromXML.pdb
+D:\Dropbox\000.Trash\06.DataBase\BookstoreDatabase\04.ComplexBookImportFromXML\bin\Debug\Bookstore.Data.dll
+D:\Dropbox\000.Trash\06.DataBase\BookstoreDatabase\04.ComplexBookImportFromXML\bin\Debug\EntityFramework.dll
+D:\Dropbox\000.Trash\06.DataBase\BookstoreDatabase\04.ComplexBookImportFromXML\bin\Debug\Bookstore.Data.pdb
+D:\Dropbox\000.Trash\06.DataBase\BookstoreDatabase\04.ComplexBookImportFromXML\bin\Debug\EntityFramework.xml
+D:\Dropbox\000.Trash\06.DataBase\BookstoreDatabase\04.ComplexBookImportFromXML\obj\Debug\04.ComplexBookImportFromXML.exe
+D:\Dropbox\000.Trash\06.DataBase\BookstoreDatabase\04.ComplexBookImportFromXML\obj\Debug\04.ComplexBookImportFromXML.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation4\BookstoreDatabase\04.ComplexBookImportFromXML\bin\Debug\04.ComplexBookImportFromXML.exe.config
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation4\BookstoreDatabase\04.ComplexBookImportFromXML\obj\Debug\04.ComplexBookImportFromXML.exe
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation4\BookstoreDatabase\04.ComplexBookImportFromXML\obj\Debug\04.ComplexBookImportFromXML.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation4\BookstoreDatabase\04.ComplexBookImportFromXML\bin\Debug\04.ComplexBookImportFromXML.exe
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation4\BookstoreDatabase\04.ComplexBookImportFromXML\bin\Debug\04.ComplexBookImportFromXML.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation4\BookstoreDatabase\04.ComplexBookImportFromXML\bin\Debug\Bookstore.Data.dll
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation4\BookstoreDatabase\04.ComplexBookImportFromXML\bin\Debug\EntityFramework.dll
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation4\BookstoreDatabase\04.ComplexBookImportFromXML\bin\Debug\Bookstore.Data.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation4\BookstoreDatabase\04.ComplexBookImportFromXML\bin\Debug\EntityFramework.xml
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation4\BookstoreDatabase\04.ComplexBookImportFromXML\obj\Debug\04.ComplexBookImportFromXML.csprojResolveAssemblyReference.cache

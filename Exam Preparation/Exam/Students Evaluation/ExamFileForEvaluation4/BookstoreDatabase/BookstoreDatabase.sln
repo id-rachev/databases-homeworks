@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.BookstoreImportFromXML", "03.BookstoreImportFromXML\03.BookstoreImportFromXML.csproj", "{D3AE7D4C-551E-473E-98B2-A9271710F64B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ComplexBookImportFromXML", "04.ComplexBookImportFromXML\04.ComplexBookImportFromXML.csproj", "{ECCEA03D-F8E1-49DC-965C-D516D19AE52C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookstore.Data", "Bookstore.Data\Bookstore.Data.csproj", "{6C1E6EC9-2E83-4C8F-BF1F-2535D8C88476}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.SimpleSearchForBooks", "05.SimpleSearchForBooks\05.SimpleSearchForBooks.csproj", "{CD995CF1-EA16-42E5-BFB4-A6D4F4B18155}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.SearchForReviews", "06.SearchForReviews\06.SearchForReviews.csproj", "{7EA38189-FF3D-443F-B551-C1E26632A53E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.SearchLogs", "07.SearchLogs\07.SearchLogs.csproj", "{886B5536-9D79-4841-862A-1995BA611A5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3AE7D4C-551E-473E-98B2-A9271710F64B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3AE7D4C-551E-473E-98B2-A9271710F64B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3AE7D4C-551E-473E-98B2-A9271710F64B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3AE7D4C-551E-473E-98B2-A9271710F64B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECCEA03D-F8E1-49DC-965C-D516D19AE52C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECCEA03D-F8E1-49DC-965C-D516D19AE52C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECCEA03D-F8E1-49DC-965C-D516D19AE52C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECCEA03D-F8E1-49DC-965C-D516D19AE52C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C1E6EC9-2E83-4C8F-BF1F-2535D8C88476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C1E6EC9-2E83-4C8F-BF1F-2535D8C88476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C1E6EC9-2E83-4C8F-BF1F-2535D8C88476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C1E6EC9-2E83-4C8F-BF1F-2535D8C88476}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD995CF1-EA16-42E5-BFB4-A6D4F4B18155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD995CF1-EA16-42E5-BFB4-A6D4F4B18155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD995CF1-EA16-42E5-BFB4-A6D4F4B18155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD995CF1-EA16-42E5-BFB4-A6D4F4B18155}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EA38189-FF3D-443F-B551-C1E26632A53E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EA38189-FF3D-443F-B551-C1E26632A53E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EA38189-FF3D-443F-B551-C1E26632A53E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EA38189-FF3D-443F-B551-C1E26632A53E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{886B5536-9D79-4841-862A-1995BA611A5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{886B5536-9D79-4841-862A-1995BA611A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{886B5536-9D79-4841-862A-1995BA611A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{886B5536-9D79-4841-862A-1995BA611A5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

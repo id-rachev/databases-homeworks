@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-5. NorthwindDB Operations", "1-5. NorthwindDB Operations\1-5. NorthwindDB Operations.csproj", "{8A6F8A3A-02B9-453E-821C-CB6190F04D25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-7. Excel Table Operations", "6-7. Excel Table Operations\6-7. Excel Table Operations.csproj", "{858E18F5-65F1-43FF-A498-31A9CD9B03D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A6F8A3A-02B9-453E-821C-CB6190F04D25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A6F8A3A-02B9-453E-821C-CB6190F04D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A6F8A3A-02B9-453E-821C-CB6190F04D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A6F8A3A-02B9-453E-821C-CB6190F04D25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{858E18F5-65F1-43FF-A498-31A9CD9B03D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{858E18F5-65F1-43FF-A498-31A9CD9B03D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{858E18F5-65F1-43FF-A498-31A9CD9B03D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{858E18F5-65F1-43FF-A498-31A9CD9B03D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

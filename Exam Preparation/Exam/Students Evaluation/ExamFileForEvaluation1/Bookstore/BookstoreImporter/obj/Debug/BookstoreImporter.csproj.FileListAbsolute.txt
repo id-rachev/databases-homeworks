@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\DatabasesHomeworks\Bookstore\BookstoreImporter\obj\Debug\BookstoreImporter.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DatabasesHomeworks\Bookstore\BookstoreImporter\bin\Debug\BookstoreImporter.exe.config
+C:\Users\Administrator\Desktop\DatabasesHomeworks\Bookstore\BookstoreImporter\bin\Debug\BookstoreImporter.exe
+C:\Users\Administrator\Desktop\DatabasesHomeworks\Bookstore\BookstoreImporter\bin\Debug\BookstoreImporter.pdb
+C:\Users\Administrator\Desktop\DatabasesHomeworks\Bookstore\BookstoreImporter\bin\Debug\Bookstore.Data.dll
+C:\Users\Administrator\Desktop\DatabasesHomeworks\Bookstore\BookstoreImporter\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\DatabasesHomeworks\Bookstore\BookstoreImporter\bin\Debug\Bookstore.Data.pdb
+C:\Users\Administrator\Desktop\DatabasesHomeworks\Bookstore\BookstoreImporter\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\DatabasesHomeworks\Bookstore\BookstoreImporter\obj\Debug\BookstoreImporter.exe
+C:\Users\Administrator\Desktop\DatabasesHomeworks\Bookstore\BookstoreImporter\obj\Debug\BookstoreImporter.pdb

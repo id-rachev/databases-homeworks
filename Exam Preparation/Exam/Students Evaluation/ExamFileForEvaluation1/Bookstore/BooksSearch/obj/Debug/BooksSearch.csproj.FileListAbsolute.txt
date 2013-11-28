@@ -1,0 +1,20 @@
+C:\Users\Administrator\Desktop\DatabasesHomeworks\Bookstore\BooksSearch\bin\Debug\BooksSearch.exe.config
+C:\Users\Administrator\Desktop\DatabasesHomeworks\Bookstore\BooksSearch\bin\Debug\BooksSearch.exe
+C:\Users\Administrator\Desktop\DatabasesHomeworks\Bookstore\BooksSearch\bin\Debug\BooksSearch.pdb
+C:\Users\Administrator\Desktop\DatabasesHomeworks\Bookstore\BooksSearch\bin\Debug\Bookstore.Data.dll
+C:\Users\Administrator\Desktop\DatabasesHomeworks\Bookstore\BooksSearch\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\DatabasesHomeworks\Bookstore\BooksSearch\bin\Debug\Bookstore.Data.pdb
+C:\Users\Administrator\Desktop\DatabasesHomeworks\Bookstore\BooksSearch\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\DatabasesHomeworks\Bookstore\BooksSearch\obj\Debug\BooksSearch.exe
+C:\Users\Administrator\Desktop\DatabasesHomeworks\Bookstore\BooksSearch\obj\Debug\BooksSearch.pdb
+C:\Users\Administrator\Desktop\DatabasesHomeworks\Bookstore\BooksSearch\obj\Debug\BooksSearch.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation1\Bookstore\BooksSearch\bin\Debug\BooksSearch.exe.config
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation1\Bookstore\BooksSearch\bin\Debug\BooksSearch.exe
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation1\Bookstore\BooksSearch\bin\Debug\BooksSearch.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation1\Bookstore\BooksSearch\bin\Debug\Bookstore.Data.dll
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation1\Bookstore\BooksSearch\bin\Debug\EntityFramework.dll
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation1\Bookstore\BooksSearch\bin\Debug\Bookstore.Data.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation1\Bookstore\BooksSearch\bin\Debug\EntityFramework.xml
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation1\Bookstore\BooksSearch\obj\Debug\BooksSearch.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation1\Bookstore\BooksSearch\obj\Debug\BooksSearch.exe
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation1\Bookstore\BooksSearch\obj\Debug\BooksSearch.pdb

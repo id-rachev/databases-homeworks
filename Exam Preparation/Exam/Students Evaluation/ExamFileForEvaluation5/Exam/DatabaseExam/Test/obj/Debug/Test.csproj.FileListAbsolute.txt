@@ -1,0 +1,9 @@
+D:\TELERIK\9. Databases\Exam\DatabaseExam\Test\bin\Debug\Test.exe.config
+D:\TELERIK\9. Databases\Exam\DatabaseExam\Test\bin\Debug\Test.exe
+D:\TELERIK\9. Databases\Exam\DatabaseExam\Test\bin\Debug\Test.pdb
+D:\TELERIK\9. Databases\Exam\DatabaseExam\Test\bin\Debug\BookstoreEntity.dll
+D:\TELERIK\9. Databases\Exam\DatabaseExam\Test\bin\Debug\EntityFramework.dll
+D:\TELERIK\9. Databases\Exam\DatabaseExam\Test\bin\Debug\BookstoreEntity.pdb
+D:\TELERIK\9. Databases\Exam\DatabaseExam\Test\bin\Debug\EntityFramework.xml
+D:\TELERIK\9. Databases\Exam\DatabaseExam\Test\obj\Debug\Test.exe
+D:\TELERIK\9. Databases\Exam\DatabaseExam\Test\obj\Debug\Test.pdb

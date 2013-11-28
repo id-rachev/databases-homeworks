@@ -1,0 +1,6 @@
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\ADO.NET\1-5. NorthwindDB Operations\bin\Debug\_1_5.NorthwindDB_Operations.exe.config
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\ADO.NET\1-5. NorthwindDB Operations\bin\Debug\_1_5.NorthwindDB_Operations.exe
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\ADO.NET\1-5. NorthwindDB Operations\bin\Debug\_1_5.NorthwindDB_Operations.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\ADO.NET\1-5. NorthwindDB Operations\obj\Debug\1-5. NorthwindDB Operations.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\ADO.NET\1-5. NorthwindDB Operations\obj\Debug\_1_5.NorthwindDB_Operations.exe
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\ADO.NET\1-5. NorthwindDB Operations\obj\Debug\_1_5.NorthwindDB_Operations.pdb

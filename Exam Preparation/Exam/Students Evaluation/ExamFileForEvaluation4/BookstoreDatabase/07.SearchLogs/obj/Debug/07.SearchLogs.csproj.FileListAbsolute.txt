@@ -1,0 +1,16 @@
+D:\Dropbox\000.Trash\06.DataBase\BookstoreDatabase\07.SearchLogs\bin\Debug\07.SearchLogs.exe.config
+D:\Dropbox\000.Trash\06.DataBase\BookstoreDatabase\07.SearchLogs\bin\Debug\07.SearchLogs.exe
+D:\Dropbox\000.Trash\06.DataBase\BookstoreDatabase\07.SearchLogs\bin\Debug\07.SearchLogs.pdb
+D:\Dropbox\000.Trash\06.DataBase\BookstoreDatabase\07.SearchLogs\bin\Debug\EntityFramework.dll
+D:\Dropbox\000.Trash\06.DataBase\BookstoreDatabase\07.SearchLogs\bin\Debug\EntityFramework.xml
+D:\Dropbox\000.Trash\06.DataBase\BookstoreDatabase\07.SearchLogs\obj\Debug\07.SearchLogs.csprojResolveAssemblyReference.cache
+D:\Dropbox\000.Trash\06.DataBase\BookstoreDatabase\07.SearchLogs\obj\Debug\07.SearchLogs.exe
+D:\Dropbox\000.Trash\06.DataBase\BookstoreDatabase\07.SearchLogs\obj\Debug\07.SearchLogs.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation4\BookstoreDatabase\07.SearchLogs\bin\Debug\07.SearchLogs.exe.config
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation4\BookstoreDatabase\07.SearchLogs\bin\Debug\07.SearchLogs.exe
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation4\BookstoreDatabase\07.SearchLogs\bin\Debug\07.SearchLogs.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation4\BookstoreDatabase\07.SearchLogs\bin\Debug\EntityFramework.dll
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation4\BookstoreDatabase\07.SearchLogs\bin\Debug\EntityFramework.xml
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation4\BookstoreDatabase\07.SearchLogs\obj\Debug\07.SearchLogs.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation4\BookstoreDatabase\07.SearchLogs\obj\Debug\07.SearchLogs.exe
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation4\BookstoreDatabase\07.SearchLogs\obj\Debug\07.SearchLogs.pdb

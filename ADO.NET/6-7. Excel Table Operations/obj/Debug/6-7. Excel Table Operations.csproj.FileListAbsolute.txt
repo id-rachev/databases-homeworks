@@ -1,0 +1,6 @@
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\ADO.NET\6-7. Excel Table Operations\bin\Debug\_6_7.Excel_Table_Operations.exe.config
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\ADO.NET\6-7. Excel Table Operations\bin\Debug\_6_7.Excel_Table_Operations.exe
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\ADO.NET\6-7. Excel Table Operations\bin\Debug\_6_7.Excel_Table_Operations.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\ADO.NET\6-7. Excel Table Operations\obj\Debug\6-7. Excel Table Operations.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\ADO.NET\6-7. Excel Table Operations\obj\Debug\_6_7.Excel_Table_Operations.exe
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\ADO.NET\6-7. Excel Table Operations\obj\Debug\_6_7.Excel_Table_Operations.pdb

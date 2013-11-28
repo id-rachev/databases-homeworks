@@ -1,0 +1,10 @@
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam-Preparation-Solution\My Exam Preparation\Bookmark-Importer\bin\Debug\Bookmark-Importer.exe
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam-Preparation-Solution\My Exam Preparation\Bookmark-Importer\bin\Debug\Bookmark-Importer.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam-Preparation-Solution\My Exam Preparation\Bookmark-Importer\obj\Debug\Bookmark-Importer.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam-Preparation-Solution\My Exam Preparation\Bookmark-Importer\obj\Debug\Bookmark-Importer.exe
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam-Preparation-Solution\My Exam Preparation\Bookmark-Importer\obj\Debug\Bookmark-Importer.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam-Preparation-Solution\My Exam Preparation\Bookmark-Importer\bin\Debug\Bookmarks.Data.dll
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam-Preparation-Solution\My Exam Preparation\Bookmark-Importer\bin\Debug\EntityFramework.dll
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam-Preparation-Solution\My Exam Preparation\Bookmark-Importer\bin\Debug\Bookmarks.Data.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam-Preparation-Solution\My Exam Preparation\Bookmark-Importer\bin\Debug\EntityFramework.xml
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam-Preparation-Solution\My Exam Preparation\Bookmark-Importer\bin\Debug\Bookmark-Importer.exe.config

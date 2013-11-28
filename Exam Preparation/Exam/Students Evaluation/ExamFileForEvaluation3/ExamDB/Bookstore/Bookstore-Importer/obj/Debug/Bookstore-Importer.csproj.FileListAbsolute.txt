@@ -1,0 +1,20 @@
+c:\users\desi\documents\visual studio 2012\Projects\Bookstore\Bookstore-Importer\bin\Debug\Bookstore-Importer.exe.config
+c:\users\desi\documents\visual studio 2012\Projects\Bookstore\Bookstore-Importer\bin\Debug\Bookstore-Importer.exe
+c:\users\desi\documents\visual studio 2012\Projects\Bookstore\Bookstore-Importer\bin\Debug\Bookstore-Importer.pdb
+c:\users\desi\documents\visual studio 2012\Projects\Bookstore\Bookstore-Importer\obj\Debug\Bookstore-Importer.csprojResolveAssemblyReference.cache
+c:\users\desi\documents\visual studio 2012\Projects\Bookstore\Bookstore-Importer\obj\Debug\Bookstore-Importer.exe
+c:\users\desi\documents\visual studio 2012\Projects\Bookstore\Bookstore-Importer\obj\Debug\Bookstore-Importer.pdb
+c:\users\desi\documents\visual studio 2012\Projects\Bookstore\Bookstore-Importer\bin\Debug\Bookstore.Data.dll
+c:\users\desi\documents\visual studio 2012\Projects\Bookstore\Bookstore-Importer\bin\Debug\EntityFramework.dll
+c:\users\desi\documents\visual studio 2012\Projects\Bookstore\Bookstore-Importer\bin\Debug\Bookstore.Data.pdb
+c:\users\desi\documents\visual studio 2012\Projects\Bookstore\Bookstore-Importer\bin\Debug\EntityFramework.xml
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation3\ExamDB\Bookstore\Bookstore-Importer\bin\Debug\Bookstore-Importer.exe.config
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation3\ExamDB\Bookstore\Bookstore-Importer\obj\Debug\Bookstore-Importer.exe
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation3\ExamDB\Bookstore\Bookstore-Importer\obj\Debug\Bookstore-Importer.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation3\ExamDB\Bookstore\Bookstore-Importer\bin\Debug\Bookstore-Importer.exe
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation3\ExamDB\Bookstore\Bookstore-Importer\bin\Debug\Bookstore-Importer.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation3\ExamDB\Bookstore\Bookstore-Importer\bin\Debug\Bookstore.Data.dll
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation3\ExamDB\Bookstore\Bookstore-Importer\bin\Debug\EntityFramework.dll
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation3\ExamDB\Bookstore\Bookstore-Importer\bin\Debug\Bookstore.Data.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation3\ExamDB\Bookstore\Bookstore-Importer\bin\Debug\EntityFramework.xml
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation3\ExamDB\Bookstore\Bookstore-Importer\obj\Debug\Bookstore-Importer.csprojResolveAssemblyReference.cache

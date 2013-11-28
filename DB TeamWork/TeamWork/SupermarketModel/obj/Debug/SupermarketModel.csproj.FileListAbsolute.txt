@@ -1,0 +1,8 @@
+F:\DataBases\HW\TeamWork\SupermarketModel\bin\Debug\SupermarketModel.dll.config
+F:\DataBases\HW\TeamWork\SupermarketModel\bin\Debug\SupermarketModel.dll
+F:\DataBases\HW\TeamWork\SupermarketModel\bin\Debug\SupermarketModel.pdb
+F:\DataBases\HW\TeamWork\SupermarketModel\bin\Debug\Telerik.OpenAccess.35.Extensions.dll
+F:\DataBases\HW\TeamWork\SupermarketModel\bin\Debug\Telerik.OpenAccess.35.Extensions.xml
+F:\DataBases\HW\TeamWork\SupermarketModel\obj\Debug\SupermarketModel.csprojResolveAssemblyReference.cache
+F:\DataBases\HW\TeamWork\SupermarketModel\obj\Debug\SupermarketModel.dll
+F:\DataBases\HW\TeamWork\SupermarketModel\obj\Debug\SupermarketModel.pdb

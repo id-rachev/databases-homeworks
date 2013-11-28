@@ -1,0 +1,12 @@
+F:\DataBases\HW\TeamWork\SupermarketEntityData\bin\Debug\SupermarketEntityData.dll.config
+F:\DataBases\HW\TeamWork\SupermarketEntityData\bin\Debug\SupermarketEntityData.dll
+F:\DataBases\HW\TeamWork\SupermarketEntityData\bin\Debug\SupermarketEntityData.pdb
+F:\DataBases\HW\TeamWork\SupermarketEntityData\bin\Debug\EntityFramework.dll
+F:\DataBases\HW\TeamWork\SupermarketEntityData\bin\Debug\SupermarketModel.dll
+F:\DataBases\HW\TeamWork\SupermarketEntityData\bin\Debug\Telerik.OpenAccess.35.Extensions.dll
+F:\DataBases\HW\TeamWork\SupermarketEntityData\bin\Debug\SupermarketModel.pdb
+F:\DataBases\HW\TeamWork\SupermarketEntityData\bin\Debug\EntityFramework.xml
+F:\DataBases\HW\TeamWork\SupermarketEntityData\bin\Debug\Telerik.OpenAccess.35.Extensions.xml
+F:\DataBases\HW\TeamWork\SupermarketEntityData\obj\Debug\SupermarketEntityData.csprojResolveAssemblyReference.cache
+F:\DataBases\HW\TeamWork\SupermarketEntityData\obj\Debug\SupermarketEntityData.dll
+F:\DataBases\HW\TeamWork\SupermarketEntityData\obj\Debug\SupermarketEntityData.pdb

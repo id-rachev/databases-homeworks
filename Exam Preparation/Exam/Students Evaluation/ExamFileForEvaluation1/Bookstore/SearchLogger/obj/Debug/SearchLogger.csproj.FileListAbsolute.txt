@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\DatabasesHomeworks\Bookstore\SearchLogger\bin\Debug\SearchLogger.exe.config
+C:\Users\Administrator\Desktop\DatabasesHomeworks\Bookstore\SearchLogger\bin\Debug\SearchLogger.exe
+C:\Users\Administrator\Desktop\DatabasesHomeworks\Bookstore\SearchLogger\bin\Debug\SearchLogger.pdb
+C:\Users\Administrator\Desktop\DatabasesHomeworks\Bookstore\SearchLogger\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\DatabasesHomeworks\Bookstore\SearchLogger\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\DatabasesHomeworks\Bookstore\SearchLogger\obj\Debug\SearchLogger.exe
+C:\Users\Administrator\Desktop\DatabasesHomeworks\Bookstore\SearchLogger\obj\Debug\SearchLogger.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation1\Bookstore\SearchLogger\bin\Debug\SearchLogger.exe.config
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation1\Bookstore\SearchLogger\bin\Debug\SearchLogger.exe
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation1\Bookstore\SearchLogger\bin\Debug\SearchLogger.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation1\Bookstore\SearchLogger\bin\Debug\EntityFramework.dll
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation1\Bookstore\SearchLogger\bin\Debug\EntityFramework.xml
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation1\Bookstore\SearchLogger\obj\Debug\SearchLogger.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation1\Bookstore\SearchLogger\obj\Debug\SearchLogger.exe
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation1\Bookstore\SearchLogger\obj\Debug\SearchLogger.pdb

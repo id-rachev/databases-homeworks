@@ -1,0 +1,9 @@
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\DB TeamWork\SupermarketDB\UsePDFExport\bin\Debug\UsePDFExport.exe.config
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\DB TeamWork\SupermarketDB\UsePDFExport\bin\Debug\UsePDFExport.exe
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\DB TeamWork\SupermarketDB\UsePDFExport\bin\Debug\UsePDFExport.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\DB TeamWork\SupermarketDB\UsePDFExport\bin\Debug\PDFExporterLib.dll
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\DB TeamWork\SupermarketDB\UsePDFExport\bin\Debug\PDFExporterLib.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\DB TeamWork\SupermarketDB\UsePDFExport\obj\Debug\UsePDFExport.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\DB TeamWork\SupermarketDB\UsePDFExport\obj\Debug\UsePDFExport.exe
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\DB TeamWork\SupermarketDB\UsePDFExport\obj\Debug\UsePDFExport.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\DB TeamWork\SupermarketDB\UsePDFExport\bin\Debug\itextsharp.dll

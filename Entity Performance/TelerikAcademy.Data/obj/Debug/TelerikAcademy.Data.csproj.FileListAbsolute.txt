@@ -1,0 +1,8 @@
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Entity Performance\TelerikAcademy.Data\bin\Debug\TelerikAcademy.Data.dll.config
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Entity Performance\TelerikAcademy.Data\bin\Debug\TelerikAcademy.Data.dll
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Entity Performance\TelerikAcademy.Data\bin\Debug\TelerikAcademy.Data.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Entity Performance\TelerikAcademy.Data\bin\Debug\EntityFramework.dll
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Entity Performance\TelerikAcademy.Data\bin\Debug\EntityFramework.xml
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Entity Performance\TelerikAcademy.Data\obj\Debug\TelerikAcademy.Data.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Entity Performance\TelerikAcademy.Data\obj\Debug\TelerikAcademy.Data.dll
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Entity Performance\TelerikAcademy.Data\obj\Debug\TelerikAcademy.Data.pdb

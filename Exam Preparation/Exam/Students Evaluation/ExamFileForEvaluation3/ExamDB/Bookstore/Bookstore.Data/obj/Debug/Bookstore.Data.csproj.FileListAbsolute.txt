@@ -1,0 +1,16 @@
+c:\users\desi\documents\visual studio 2012\Projects\Bookstore\Bookstore.Data\obj\Debug\Bookstore.Data.csprojResolveAssemblyReference.cache
+c:\users\desi\documents\visual studio 2012\Projects\Bookstore\Bookstore.Data\bin\Debug\Bookstore.Data.dll.config
+c:\users\desi\documents\visual studio 2012\Projects\Bookstore\Bookstore.Data\bin\Debug\Bookstore.Data.dll
+c:\users\desi\documents\visual studio 2012\Projects\Bookstore\Bookstore.Data\bin\Debug\Bookstore.Data.pdb
+c:\users\desi\documents\visual studio 2012\Projects\Bookstore\Bookstore.Data\bin\Debug\EntityFramework.dll
+c:\users\desi\documents\visual studio 2012\Projects\Bookstore\Bookstore.Data\bin\Debug\EntityFramework.xml
+c:\users\desi\documents\visual studio 2012\Projects\Bookstore\Bookstore.Data\obj\Debug\Bookstore.Data.dll
+c:\users\desi\documents\visual studio 2012\Projects\Bookstore\Bookstore.Data\obj\Debug\Bookstore.Data.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation3\ExamDB\Bookstore\Bookstore.Data\bin\Debug\Bookstore.Data.dll.config
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation3\ExamDB\Bookstore\Bookstore.Data\bin\Debug\Bookstore.Data.dll
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation3\ExamDB\Bookstore\Bookstore.Data\bin\Debug\Bookstore.Data.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation3\ExamDB\Bookstore\Bookstore.Data\bin\Debug\EntityFramework.dll
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation3\ExamDB\Bookstore\Bookstore.Data\bin\Debug\EntityFramework.xml
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation3\ExamDB\Bookstore\Bookstore.Data\obj\Debug\Bookstore.Data.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation3\ExamDB\Bookstore\Bookstore.Data\obj\Debug\Bookstore.Data.dll
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation3\ExamDB\Bookstore\Bookstore.Data\obj\Debug\Bookstore.Data.pdb

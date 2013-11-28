@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BookstoreModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="BookstoreEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Authors" EntityType="BookstoreModel.Author" />
+    <EntitySet Name="Books" EntityType="BookstoreModel.Book" />
+    <EntitySet Name="Reviews" EntityType="BookstoreModel.Review" />
+    <AssociationSet Name="FK_Reviews_Authors" Association="BookstoreModel.FK_Reviews_Authors">
+      <End Role="Authors" EntitySet="Authors" />
+      <End Role="Reviews" EntitySet="Reviews" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Reviews_Books" Association="BookstoreModel.FK_Reviews_Books">
+      <End Role="Books" EntitySet="Books" />
+      <End Role="Reviews" EntitySet="Reviews" />
+    </AssociationSet>
+    <AssociationSet Name="BooksAutors" Association="BookstoreModel.BooksAutors">
+      <End Role="Authors" EntitySet="Authors" />
+      <End Role="Books" EntitySet="Books" />
+    </AssociationSet>
+    <FunctionImport Name="sp_alterdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_creatediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_dropdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagramdefinition" ReturnType="Collection(BookstoreModel.sp_helpdiagramdefinition_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagrams" ReturnType="Collection(BookstoreModel.sp_helpdiagrams_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_renamediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="new_diagramname" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="sp_upgraddiagrams" />
+  </EntityContainer>
+  <EntityType Name="Author">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="500" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Reviews" Relationship="BookstoreModel.FK_Reviews_Authors" FromRole="Authors" ToRole="Reviews" />
+    <NavigationProperty Name="Books" Relationship="BookstoreModel.BooksAutors" FromRole="Authors" ToRole="Books" />
+  </EntityType>
+  <EntityType Name="Book">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" Nullable="false" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="ISBN" Type="String" MaxLength="500" Unicode="true" FixedLength="false" />
+    <Property Name="Price" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="Website" Type="String" MaxLength="500" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Reviews" Relationship="BookstoreModel.FK_Reviews_Books" FromRole="Books" ToRole="Reviews" />
+    <NavigationProperty Name="Authors" Relationship="BookstoreModel.BooksAutors" FromRole="Books" ToRole="Authors" />
+  </EntityType>
+  <EntityType Name="Review">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="DateOfCreation" Type="DateTime" Precision="0" />
+    <Property Name="AuthorID" Type="Int32" />
+    <Property Name="BookID" Type="Int32" Nullable="false" />
+    <Property Name="Text" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="Author" Relationship="BookstoreModel.FK_Reviews_Authors" FromRole="Reviews" ToRole="Authors" />
+    <NavigationProperty Name="Book" Relationship="BookstoreModel.FK_Reviews_Books" FromRole="Reviews" ToRole="Books" />
+  </EntityType>
+  <Association Name="FK_Reviews_Authors">
+    <End Role="Authors" Type="BookstoreModel.Author" Multiplicity="0..1" />
+    <End Role="Reviews" Type="BookstoreModel.Review" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Authors">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Reviews">
+        <PropertyRef Name="AuthorID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Reviews_Books">
+    <End Role="Books" Type="BookstoreModel.Book" Multiplicity="1" />
+    <End Role="Reviews" Type="BookstoreModel.Review" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Books">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Reviews">
+        <PropertyRef Name="BookID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="BooksAutors">
+    <End Role="Authors" Type="BookstoreModel.Author" Multiplicity="*" />
+    <End Role="Books" Type="BookstoreModel.Book" Multiplicity="*" />
+  </Association>
+  <ComplexType Name="sp_helpdiagramdefinition_Result">
+    <Property Type="Int32" Name="version" Nullable="true" />
+    <Property Type="Binary" Name="definition" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="sp_helpdiagrams_Result">
+    <Property Type="String" Name="Database" Nullable="true" MaxLength="128" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="128" />
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="String" Name="Owner" Nullable="true" MaxLength="128" />
+    <Property Type="Int32" Name="OwnerID" Nullable="false" />
+  </ComplexType>
+</Schema>

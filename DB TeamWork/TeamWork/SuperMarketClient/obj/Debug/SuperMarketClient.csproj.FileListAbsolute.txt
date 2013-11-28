@@ -1,0 +1,31 @@
+F:\DataBases\HW\TeamWork\SuperMarketClient\bin\Debug\SuperMarketClient.exe.config
+F:\DataBases\HW\TeamWork\SuperMarketClient\obj\Debug\SuperMarketClient.csprojResolveAssemblyReference.cache
+F:\DataBases\HW\TeamWork\SuperMarketClient\bin\Debug\SuperMarketClient.exe
+F:\DataBases\HW\TeamWork\SuperMarketClient\bin\Debug\SuperMarketClient.pdb
+F:\DataBases\HW\TeamWork\SuperMarketClient\bin\Debug\SupermarketModel.dll
+F:\DataBases\HW\TeamWork\SuperMarketClient\bin\Debug\Telerik.OpenAccess.35.Extensions.dll
+F:\DataBases\HW\TeamWork\SuperMarketClient\bin\Debug\SupermarketModel.pdb
+F:\DataBases\HW\TeamWork\SuperMarketClient\bin\Debug\Telerik.OpenAccess.35.Extensions.xml
+F:\DataBases\HW\TeamWork\SuperMarketClient\obj\Debug\SuperMarketClient.exe
+F:\DataBases\HW\TeamWork\SuperMarketClient\obj\Debug\SuperMarketClient.pdb
+F:\DataBases\HW\TeamWork\SuperMarketClient\bin\Debug\EntityFramework.dll
+F:\DataBases\HW\TeamWork\SuperMarketClient\bin\Debug\SupermarketEntityData.dll
+F:\DataBases\HW\TeamWork\SuperMarketClient\bin\Debug\SupermarketEntityData.pdb
+F:\DataBases\HW\TeamWork\SuperMarketClient\bin\Debug\EntityFramework.xml
+F:\DataBases\HW\TeamWork\SuperMarketClient\bin\Debug\ExcelReaderLib.dll
+F:\DataBases\HW\TeamWork\SuperMarketClient\bin\Debug\Ionic.Zip.dll
+F:\DataBases\HW\TeamWork\SuperMarketClient\bin\Debug\ZipReader.dll
+F:\DataBases\HW\TeamWork\SuperMarketClient\bin\Debug\Helper.dll
+F:\DataBases\HW\TeamWork\SuperMarketClient\bin\Debug\Helper.pdb
+F:\DataBases\HW\TeamWork\SuperMarketClient\bin\Debug\EPPlus.dll
+F:\DataBases\HW\TeamWork\SuperMarketClient\bin\Debug\EPPlus.xml
+F:\DataBases\HW\TeamWork\SuperMarketClient\bin\Debug\MongoDB.Driver.dll
+F:\DataBases\HW\TeamWork\SuperMarketClient\bin\Debug\MongoDB.Bson.dll
+F:\DataBases\HW\TeamWork\SuperMarketClient\bin\Debug\x64\SQLite.Interop.dll
+F:\DataBases\HW\TeamWork\SuperMarketClient\bin\Debug\x86\SQLite.Interop.dll
+F:\DataBases\HW\TeamWork\SuperMarketClient\bin\Debug\System.Data.SQLite.dll
+F:\DataBases\HW\TeamWork\SuperMarketClient\bin\Debug\System.Data.SQLite.Linq.dll
+F:\DataBases\HW\TeamWork\SuperMarketClient\bin\Debug\itextsharp.dll
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\DB TeamWork\TeamWork\SuperMarketClient\bin\Debug\SuperMarketClient.exe.config
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\DB TeamWork\TeamWork\SuperMarketClient\obj\Debug\SuperMarketClient.exe
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\DB TeamWork\TeamWork\SuperMarketClient\obj\Debug\SuperMarketClient.pdb

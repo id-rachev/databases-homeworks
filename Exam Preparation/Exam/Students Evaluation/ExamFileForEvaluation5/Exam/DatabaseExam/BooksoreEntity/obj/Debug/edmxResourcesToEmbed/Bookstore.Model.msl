@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BookstoreModelStoreContainer" CdmEntityContainer="BookstoreEntities">
+    <EntitySetMapping Name="Authors">
+      <EntityTypeMapping TypeName="BookstoreModel.Author">
+        <MappingFragment StoreEntitySet="Authors">
+          <ScalarProperty Name="AuthorID" ColumnName="AuthorID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Books">
+      <EntityTypeMapping TypeName="BookstoreModel.Book">
+        <MappingFragment StoreEntitySet="Books">
+          <ScalarProperty Name="BookID" ColumnName="BookID" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="ISBN" ColumnName="ISBN" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="WebSite" ColumnName="WebSite" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Reviews">
+      <EntityTypeMapping TypeName="BookstoreModel.Review">
+        <MappingFragment StoreEntitySet="Reviews">
+          <ScalarProperty Name="BookID" ColumnName="BookID" />
+          <ScalarProperty Name="ReviewID" ColumnName="ReviewID" />
+          <ScalarProperty Name="DateOfCreation" ColumnName="DateOfCreation" />
+          <ScalarProperty Name="AuthorID" ColumnName="AuthorID" />
+          <ScalarProperty Name="Review1" ColumnName="Review" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="Authors_Books" TypeName="BookstoreModel.Authors_Books" StoreEntitySet="Authors_Books">
+      <EndProperty Name="Authors">
+        <ScalarProperty Name="AuthorID" ColumnName="AuthorID" />
+      </EndProperty>
+      <EndProperty Name="Books">
+        <ScalarProperty Name="BookID" ColumnName="BookID" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

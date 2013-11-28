@@ -1,0 +1,10 @@
+D:\TELERIK\9. Databases\Exam\DatabaseExam\SimpleBooksImport\bin\Debug\SimpleBooksImport.exe.config
+D:\TELERIK\9. Databases\Exam\DatabaseExam\SimpleBooksImport\obj\Debug\SimpleBooksImport.csprojResolveAssemblyReference.cache
+D:\TELERIK\9. Databases\Exam\DatabaseExam\SimpleBooksImport\bin\Debug\SimpleBooksImport.exe
+D:\TELERIK\9. Databases\Exam\DatabaseExam\SimpleBooksImport\bin\Debug\SimpleBooksImport.pdb
+D:\TELERIK\9. Databases\Exam\DatabaseExam\SimpleBooksImport\bin\Debug\BookstoreEntity.dll
+D:\TELERIK\9. Databases\Exam\DatabaseExam\SimpleBooksImport\bin\Debug\EntityFramework.dll
+D:\TELERIK\9. Databases\Exam\DatabaseExam\SimpleBooksImport\bin\Debug\BookstoreEntity.pdb
+D:\TELERIK\9. Databases\Exam\DatabaseExam\SimpleBooksImport\bin\Debug\EntityFramework.xml
+D:\TELERIK\9. Databases\Exam\DatabaseExam\SimpleBooksImport\obj\Debug\SimpleBooksImport.exe
+D:\TELERIK\9. Databases\Exam\DatabaseExam\SimpleBooksImport\obj\Debug\SimpleBooksImport.pdb

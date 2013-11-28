@@ -1,0 +1,10 @@
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Bookstore\Bookstore.Importer\bin\Debug\Bookstore.Importer.exe.config
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Bookstore\Bookstore.Importer\obj\Debug\Bookstore.Importer.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Bookstore\Bookstore.Importer\bin\Debug\Bookstore.Importer.exe
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Bookstore\Bookstore.Importer\bin\Debug\Bookstore.Importer.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Bookstore\Bookstore.Importer\bin\Debug\Bookstore.Data.dll
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Bookstore\Bookstore.Importer\bin\Debug\EntityFramework.dll
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Bookstore\Bookstore.Importer\bin\Debug\Bookstore.Data.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Bookstore\Bookstore.Importer\bin\Debug\EntityFramework.xml
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Bookstore\Bookstore.Importer\obj\Debug\Bookstore.Importer.exe
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Bookstore\Bookstore.Importer\obj\Debug\Bookstore.Importer.pdb

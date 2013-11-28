@@ -1,0 +1,8 @@
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Entity Framework\Northwind.Model\bin\Debug\Northwind.Model.dll.config
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Entity Framework\Northwind.Model\bin\Debug\Northwind.Model.dll
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Entity Framework\Northwind.Model\bin\Debug\Northwind.Model.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Entity Framework\Northwind.Model\bin\Debug\EntityFramework.dll
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Entity Framework\Northwind.Model\bin\Debug\EntityFramework.xml
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Entity Framework\Northwind.Model\obj\Debug\Northwind.Model.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Entity Framework\Northwind.Model\obj\Debug\Northwind.Model.dll
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Entity Framework\Northwind.Model\obj\Debug\Northwind.Model.pdb

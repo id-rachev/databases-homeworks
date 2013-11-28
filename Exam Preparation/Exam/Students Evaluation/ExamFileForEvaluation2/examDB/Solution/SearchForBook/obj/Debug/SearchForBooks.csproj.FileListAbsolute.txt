@@ -1,0 +1,20 @@
+D:\Dropbox\Projects\DataBases\EXAM\SearchForBook\bin\Debug\SearchForBook.exe.config
+D:\Dropbox\Projects\DataBases\EXAM\SearchForBook\bin\Debug\SearchForBook.exe
+D:\Dropbox\Projects\DataBases\EXAM\SearchForBook\bin\Debug\SearchForBook.pdb
+D:\Dropbox\Projects\DataBases\EXAM\SearchForBook\bin\Debug\Bookstore.Model.dll
+D:\Dropbox\Projects\DataBases\EXAM\SearchForBook\bin\Debug\EntityFramework.dll
+D:\Dropbox\Projects\DataBases\EXAM\SearchForBook\bin\Debug\Bookstore.Model.pdb
+D:\Dropbox\Projects\DataBases\EXAM\SearchForBook\bin\Debug\EntityFramework.xml
+D:\Dropbox\Projects\DataBases\EXAM\SearchForBook\obj\Debug\SearchForBooks.csprojResolveAssemblyReference.cache
+D:\Dropbox\Projects\DataBases\EXAM\SearchForBook\obj\Debug\SearchForBook.exe
+D:\Dropbox\Projects\DataBases\EXAM\SearchForBook\obj\Debug\SearchForBook.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation2\examDB\Solution\SearchForBook\bin\Debug\SearchForBook.exe.config
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation2\examDB\Solution\SearchForBook\obj\Debug\SearchForBook.exe
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation2\examDB\Solution\SearchForBook\obj\Debug\SearchForBook.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation2\examDB\Solution\SearchForBook\bin\Debug\SearchForBook.exe
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation2\examDB\Solution\SearchForBook\bin\Debug\SearchForBook.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation2\examDB\Solution\SearchForBook\bin\Debug\Bookstore.Model.dll
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation2\examDB\Solution\SearchForBook\bin\Debug\EntityFramework.dll
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation2\examDB\Solution\SearchForBook\bin\Debug\Bookstore.Model.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation2\examDB\Solution\SearchForBook\bin\Debug\EntityFramework.xml
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation2\examDB\Solution\SearchForBook\obj\Debug\SearchForBooks.csprojResolveAssemblyReference.cache

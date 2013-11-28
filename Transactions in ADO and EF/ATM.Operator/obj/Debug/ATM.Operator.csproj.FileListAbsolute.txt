@@ -1,0 +1,1 @@
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Transactions in ADO and EF\ATM.Operator\bin\Debug\ATM.Operator.exe.config

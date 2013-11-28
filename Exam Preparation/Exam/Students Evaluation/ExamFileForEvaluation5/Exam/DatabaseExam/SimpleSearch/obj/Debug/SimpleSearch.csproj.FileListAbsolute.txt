@@ -1,0 +1,20 @@
+D:\TELERIK\9. Databases\Exam\DatabaseExam\SimpleSearch\bin\Debug\SimpleSearch.exe.config
+D:\TELERIK\9. Databases\Exam\DatabaseExam\SimpleSearch\obj\Debug\SimpleSearch.csprojResolveAssemblyReference.cache
+D:\TELERIK\9. Databases\Exam\DatabaseExam\SimpleSearch\bin\Debug\SimpleSearch.exe
+D:\TELERIK\9. Databases\Exam\DatabaseExam\SimpleSearch\bin\Debug\SimpleSearch.pdb
+D:\TELERIK\9. Databases\Exam\DatabaseExam\SimpleSearch\bin\Debug\BooksoreEntity.dll
+D:\TELERIK\9. Databases\Exam\DatabaseExam\SimpleSearch\bin\Debug\EntityFramework.dll
+D:\TELERIK\9. Databases\Exam\DatabaseExam\SimpleSearch\bin\Debug\BooksoreEntity.pdb
+D:\TELERIK\9. Databases\Exam\DatabaseExam\SimpleSearch\bin\Debug\EntityFramework.xml
+D:\TELERIK\9. Databases\Exam\DatabaseExam\SimpleSearch\obj\Debug\SimpleSearch.exe
+D:\TELERIK\9. Databases\Exam\DatabaseExam\SimpleSearch\obj\Debug\SimpleSearch.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation5\Exam\DatabaseExam\SimpleSearch\bin\Debug\SimpleSearch.exe.config
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation5\Exam\DatabaseExam\SimpleSearch\obj\Debug\SimpleSearch.exe
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation5\Exam\DatabaseExam\SimpleSearch\bin\Debug\SimpleSearch.exe
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation5\Exam\DatabaseExam\SimpleSearch\bin\Debug\SimpleSearch.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation5\Exam\DatabaseExam\SimpleSearch\bin\Debug\BooksoreEntity.dll
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation5\Exam\DatabaseExam\SimpleSearch\bin\Debug\EntityFramework.dll
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation5\Exam\DatabaseExam\SimpleSearch\bin\Debug\BooksoreEntity.pdb
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation5\Exam\DatabaseExam\SimpleSearch\bin\Debug\EntityFramework.xml
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation5\Exam\DatabaseExam\SimpleSearch\obj\Debug\SimpleSearch.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik Academy\Data Bases\Data Bases Projects\Exam Preparation\Exam\Students Evaluation\ExamFileForEvaluation5\Exam\DatabaseExam\SimpleSearch\obj\Debug\SimpleSearch.pdb
